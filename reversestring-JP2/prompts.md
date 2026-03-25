@@ -27,3 +27,16 @@ El único archivo que tiene contenido es index.html con el siguiente contenido:
 </html>
 
 Dame una solución simple usando HTML y JavaScript puro, separando el contenido de index.html y script.js.
+
+
+
+
+-------- parte 2 ------------
+
+Ahora hay que agregar la siguiente funcionalidad: 
+
+- El botón de la página web debe aparecer solo cuando haya texto suficiente, es decir más de 3 letras. 
+
+- La cadena invertida debe de actualizarse en tiempo real, de forma que no dependa del botón. 
+
+Indicame los cambios a realizar en los archivos que conoces
